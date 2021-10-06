@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/iv_emptyListIcon"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_empty"
+        app:tint="@color/grey_shade_watermark" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tv_emptyStateMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_emptyListIcon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/space_medium"
+        android:gravity="center"
+        android:textColor="@color/grey_shade_watermark"
+        tools:text="No data yet!" />
+</RelativeLayout>

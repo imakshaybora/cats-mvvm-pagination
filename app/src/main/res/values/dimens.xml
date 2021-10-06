@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="text_size_xxx_small">9sp</dimen>
+    <dimen name="text_size_xx_small">10sp</dimen>
+    <dimen name="text_size_x_small">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_l_small">15sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_x_medium">17sp</dimen>
+    <dimen name="text_size_big">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_x_large">22sp</dimen>
+    <dimen name="text_size_xx_large">24sp</dimen>
+    <dimen name="text_size_huge">26sp</dimen>
+
+    <dimen name="space_xsmall">4dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_medium_small">12dp</dimen>
+    <dimen name="space_medium">16dp</dimen>
+    <dimen name="space_large">24dp</dimen>
+    <dimen name="space_xlarge">32dp</dimen>
+    <dimen name="image_dimen">56dp</dimen>
+</resources>

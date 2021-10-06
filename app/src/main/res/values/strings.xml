@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name="retry">Retry</string>
+    <string name="error_fetching_data">Error fetching data!</string>
+    <string name="default_no_data_value">-</string>
+    <string name="no_data_found">No data found</string>
+    <string name="cats_app">Cats App</string>
+    <string name="breed_listing">Breed listing</string>
+    <!--Error Scenario-->
+    <string name="unknown_host">Oops! we are facing issue connecting to backend</string>
+    <string name="socket_timeout_exception">we are facing issue reaching to our system</string>
+    <string name="internet_not_available">Please check your internet connection</string>
+</resources>
